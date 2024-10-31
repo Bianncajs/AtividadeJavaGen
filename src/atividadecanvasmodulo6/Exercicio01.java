@@ -24,5 +24,5 @@ public class Exercicio01 {
 			System.out.println("Seu novo Salário é de: " + NovoSalario);
 
 	}
-
+	
 }
